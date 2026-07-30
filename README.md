@@ -36,7 +36,7 @@ step(sys)
 ### Open Loop System:
 <img width="738" height="202" alt="Open loop" src="https://github.com/user-attachments/assets/50ccb5bb-701d-486e-b101-dd3118cf8021" />
 
-### Close Loop System:
+### Closed Loop System:
 <img width="990" height="195" alt="close loop" src="https://github.com/user-attachments/assets/95a5d3da-6ff3-433e-86cc-bc5496c6135f" />
 
 
